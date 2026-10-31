@@ -1,7 +1,7 @@
 # File Notification Attacks - Artifacts
-This repository contains the (still in review!) artifacts for the paper "File
-Notification Attacks: Templating and Exploiting Side-Channel Leakage from the
-File-Notification Systems on Linux, Windows, and macOS", accepted at [CCS
+This repository contains the artifacts for the paper "File Notification Attacks:
+Templating and Exploiting Side-Channel Leakage from the File-Notification
+Systems on Linux, Windows, and macOS", accepted at [CCS
 '26](https://www.sigsac.org/ccs/CCS2026/).
 
 Visit the website with demos at: https://inoti.fyi/
@@ -35,8 +35,7 @@ As a part of [artifact evaluation at
 CCS'26](https://www.sigsac.org/ccs/CCS2026/call-for/call-for-artifacts.html), we
 shipped a Debian 13 + KDE Plasma 6 VM with a pre-patched kernel. This VM was not
 used to produce the paper's evaluation results and is not intended to reproduce
-their exact magnitude. This repository may be updated to incorporate reviews and
-feedback from our artifact evaluators.
+their exact magnitude.
 
 Find this VM at: https://zenodo.org/records/22843469 (linux-vm.tar)
 
